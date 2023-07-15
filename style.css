@@ -1,0 +1,29 @@
+body{
+background-color: antiquewhite;
+margin: 0;
+padding: 0;
+
+}
+
+ .output{
+    text-align: center;
+ }
+
+.content{
+    text-align: center;
+    margin-top: 300px;
+    
+}
+
+input{
+    padding: 1.5em;
+    margin: 20px;
+    border-radius: 20%;
+
+
+}
+ button{
+    padding: 1.5em;
+     background-color: azure;
+     border-radius: 50%;
+}
